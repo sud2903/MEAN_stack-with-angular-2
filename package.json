@@ -1,0 +1,23 @@
+{
+  "name": "myapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sud2903/MEAN_stack-with-angular-2.git"
+  },
+  "author": "Shudhanshu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sud2903/MEAN_stack-with-angular-2/issues"
+  },
+  "homepage": "https://github.com/sud2903/MEAN_stack-with-angular-2#readme",
+  "dependencies": {
+    "express": "^4.15.3",
+    "mongoose": "^4.11.5"
+  }
+}
